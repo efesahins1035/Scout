@@ -1,4 +1,4 @@
-# Scout - Modüler Ağ Güvenlik Aracı 🕵️♂️
+# Scout - Modüler Ağ Güvenlik Aracı 🕵️
 
 Scout, Python ile geliştirilmiş, tamamen Türkçe arayüze sahip, modüler ve genişletilebilir bir ağ güvenlik aracıdır.
 
