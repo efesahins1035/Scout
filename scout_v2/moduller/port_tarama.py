@@ -1,7 +1,7 @@
 import socket
 from rich.progress import Progress
-from core.base import ScoutModul
-from core.utils import print_success, print_warning, console
+from scout_v2.core.base import ScoutModul
+from scout_v2.core.utils import print_success, print_warning, console
 
 class PortTaramaModulu(ScoutModul):
     def __init__(self):

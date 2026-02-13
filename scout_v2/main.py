@@ -1,7 +1,7 @@
 import argparse
 import sys
-from core.utils import print_banner, print_error, print_info
-from moduller.port_tarama import PortTaramaModulu
+from scout_v2.core.utils import print_banner, print_error, print_info
+from scout_v2.moduller.port_tarama import PortTaramaModulu
 
 def main():
     print_banner()
